@@ -11,12 +11,16 @@ directory for you to keep all the recently generated files together.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Bash</b> 
+- <b>Sublist3r</b>
+- <b>theHarvester</b>
+- <b>nslookup</b>
+- <b>whois</b>
+- <b>dig</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 11/b> (21H2)
 
 <h2>Program walk-through:</h2>
 
