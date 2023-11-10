@@ -1,5 +1,3 @@
-# BashPassiveRecon
-
 <h1>Bash Passive Recon</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
